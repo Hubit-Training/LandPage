@@ -81,7 +81,7 @@ function App() {
 
           <div className='modulos'>
             <div>
-              <h3>New way to get a job</h3>
+              <h3>New way to get a job</h3> 
               <h5>Once you gain access to the Hirace platform you start out by adding your first team roles</h5>
             </div>
             <div className='card-content'>
